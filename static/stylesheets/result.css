@@ -1,0 +1,10 @@
+h1{
+    color: black;
+    text-align: center;
+}
+body{
+    color: black;
+    background-image: url(/static/images/image0.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+}
