@@ -1,0 +1,9 @@
+h1{
+    color: black;
+}
+body{
+    color: black;
+    background-image: url(/static/images/image0.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+}
